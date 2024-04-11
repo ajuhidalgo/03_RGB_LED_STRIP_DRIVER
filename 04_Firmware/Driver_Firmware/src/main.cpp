@@ -11,9 +11,9 @@
 #define LIGHT_ID   "654fcb993b9de90f2c22839b"   // Should look like "5dc1564130xxxxxxxxxxxxxx"
 #define BAUD_RATE  115200
 
-#define BLUE_PIN  15  // PIN for BLUE Mosfet
-#define RED_PIN   12  // PIN for RED Mosfet
-#define GREEN_PIN 14  // PIN for GREEN Mosfet
+#define BLUE_PIN  13  // PIN for BLUE Mosfet
+#define RED_PIN   16  // PIN for RED Mosfet
+#define GREEN_PIN 12  // PIN for GREEN Mosfet
 
 struct Color {
     uint8_t r;
