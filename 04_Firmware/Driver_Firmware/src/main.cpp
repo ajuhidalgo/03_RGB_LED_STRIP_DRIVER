@@ -4,16 +4,16 @@
 #include <SinricProLight.h>
 #include <map>
 
-#define WIFI_SSID  "YOUR-WIFI-SSID"
-#define WIFI_PASS  "YOUR-WIFI-PASS"
-#define APP_KEY    "f861277b-595d-4605-b841-663e9a68bba0"     // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET "57ffd202-fb21-48ba-922e-c63584829f6d-230ec330-54d0-4652-8f70-71883d89977b"  // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
-#define LIGHT_ID   "654fcb993b9de90f2c22839b"   // Should look like "5dc1564130xxxxxxxxxxxxxx"
+#define WIFI_SSID  "Livebox6-9460"
+#define WIFI_PASS  "QgQw9LASYq66"
+#define APP_KEY    "f861277b-595d-4605-b841-663e9a68bba0"
+#define APP_SECRET "57ffd202-fb21-48ba-922e-c63584829f6d-230ec330-54d0-4652-8f70-71883d89977b"
+#define LIGHT_ID   "6618011c7c9e6c6fe868df8a"
 #define BAUD_RATE  115200
 
-#define BLUE_PIN  15  // PIN for BLUE Mosfet
-#define RED_PIN   12  // PIN for RED Mosfet
-#define GREEN_PIN 14  // PIN for GREEN Mosfet
+#define BLUE_PIN  13  // PIN for BLUE Mosfet
+#define RED_PIN   16  // PIN for RED Mosfet
+#define GREEN_PIN 12  // PIN for GREEN Mosfet
 
 struct Color {
     uint8_t r;
