@@ -8,7 +8,7 @@ Este proyecto se centra en la creación de un controlador para tiras de LEDs RGB
 
 ### Componentes del Proyecto
 1. **Circuito y PCB**: Diseñé el circuito y el PCB para el controlador utilizando **KiCad**. Puedes encontrar los esquemas y archivos Gerber en este repositorio.
-2. **Carcasa en 3D**: Creé una carcasa en 3D para proteger el controlador con el programa **Fusion 360**. Los archivos STL y los detalles de impresión están disponibles en la carpeta de mecánica.
+2. **Carcasa**: Creé una carcasa en 3D para proteger el controlador con el programa **Fusion 360**. Los archivos STL y los detalles de impresión están disponibles en la carpeta de mecánica.
 3. **Firmware**: El código fuente del firmware se encuentra en el repositorio. En la memoria del proyecto puedes obtener información acerca de la configuración.
 
 ### Características Clave
