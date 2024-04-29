@@ -1,4 +1,7 @@
 ## Controlador de Tiras LED RGB con ESP8266
+![image](https://github.com/ajuhidalgo/03_RGB_LED_STRIP_DRIVER/assets/46991239/58730682-bdb4-445d-a7e8-3e832fc06862) ![image](https://github.com/ajuhidalgo/03_RGB_LED_STRIP_DRIVER/assets/46991239/f792f081-bae2-4514-8627-644a0704bf49)
+
+
 
 ### Descripción
 Este proyecto se centra en la creación de un controlador para tiras de LEDs RGB utilizando el microcontrolador **ESP8266**. El dispositivo está diseñado para ser compatible con **Google Home** y se conecta a través de **Wi-Fi**. El controlador permite seleccionar colores y efectos para las tiras LED.
