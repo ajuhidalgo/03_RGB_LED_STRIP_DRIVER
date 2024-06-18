@@ -1,18 +1,11 @@
-22220819737293756
+22217438940063502
 01_Footprints
-20021121-00006C1LF
-
-
+61300411121
+61300411121
+Connector
 0
-6
-6
-01_Footprints
-BUK921430A118
-DPAK (SOT428)_6.6x6.1
-MOSFET (N-Channel)
-0
-3
-3
+4
+4
 01_Footprints
 DF04S-E3_77
 CASE STYLE DFS
@@ -21,12 +14,12 @@ Bridge Rectifier
 4
 4
 01_Footprints
-ESP-12S
-
-
+ESP32-C6-MINI-1-N4
+13.2 × 16.6 × 2.4mm
+Integrated Circuit
 0
-17
-17
+61
+61
 01_Footprints
 FDD8880
 DPAK3 (TO−252 3 LD) CASE 369AS ISSUE O_3
@@ -42,19 +35,12 @@ Connector
 3
 3
 01_Footprints
-PROG_INTERFACE
+S4B-XH-A_LF__SN_
 
 
 0
-6
-6
-01_Footprints
-S4B-ZR-SM4A-TF-LF
-
-
-0
-6
-6
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
