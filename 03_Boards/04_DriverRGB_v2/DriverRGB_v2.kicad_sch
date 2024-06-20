@@ -6,7 +6,7 @@
 
   (title_block
     (title "RGB LED STRIP DRIVER")
-    (date "18/06/2024")
+    (date "20/06/2024")
     (rev "v02")
     (company "Schematic")
     (comment 1 "Author: Juan Antonio Hidalgo Torres")
@@ -1855,10 +1855,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "PWM_RED" (shape input) (at 52.07 128.27 180) (fields_autoplaced)
+  (global_label "PWM_RED" (shape input) (at 52.07 133.35 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 3b007f3b-b239-48e2-9d50-e4815e8ed8d0)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 40.2554 128.27 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 40.2554 133.35 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -1904,10 +1904,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "PWM_GREEN" (shape input) (at 52.07 133.35 180) (fields_autoplaced)
+  (global_label "PWM_GREEN" (shape input) (at 52.07 130.81 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 670ffdaa-84d1-4492-8a13-e45d19db2ef5)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 37.7759 133.35 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 37.7759 130.81 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -1967,10 +1967,10 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "PWM_BLUE" (shape input) (at 52.07 130.81 180) (fields_autoplaced)
+  (global_label "PWM_BLUE" (shape input) (at 52.07 128.27 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d1954b82-6462-4fb5-b8f3-a83e52e63f0c)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 39.1668 130.81 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 39.1668 128.27 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
@@ -2059,7 +2059,7 @@
       )
       (project "DriverRGB_v2"
         (path "/8cad6e61-0be6-474b-8ad7-614d0726c0fd"
-          (reference "C3") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -2120,7 +2120,7 @@
       )
       (project "DriverRGB_v2"
         (path "/8cad6e61-0be6-474b-8ad7-614d0726c0fd"
-          (reference "C4") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -2551,7 +2551,7 @@
       )
       (project "DriverRGB_v2"
         (path "/8cad6e61-0be6-474b-8ad7-614d0726c0fd"
-          (reference "R7") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -2725,7 +2725,7 @@
       )
       (project "DriverRGB_v2"
         (path "/8cad6e61-0be6-474b-8ad7-614d0726c0fd"
-          (reference "R8") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -2789,7 +2789,7 @@
   (symbol (lib_id "Regulator_Linear:AMS1117CD-3.3") (at 148.59 67.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 88bd85e9-e4c6-4c77-b24d-b3f3e91fd5ce)
-    (property "Reference" "U3" (at 148.59 61.2607 0)
+    (property "Reference" "U1" (at 148.59 61.2607 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AMS1117CD-3.3" (at 148.59 63.6849 0)
@@ -2807,7 +2807,7 @@
     (instances
       (project "DriverRGB_v2"
         (path "/8cad6e61-0be6-474b-8ad7-614d0726c0fd"
-          (reference "U3") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -3019,7 +3019,7 @@
       )
       (project "DriverRGB_v2"
         (path "/8cad6e61-0be6-474b-8ad7-614d0726c0fd"
-          (reference "R5") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
