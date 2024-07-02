@@ -1,5 +1,8 @@
 ## Controlador de Tiras LED RGB con ESP32-C6-MINI
-![image](https://github.com/ajuhidalgo/03_RGB_LED_STRIP_DRIVER/assets/46991239/58730682-bdb4-445d-a7e8-3e832fc06862) ![image](https://github.com/ajuhidalgo/03_RGB_LED_STRIP_DRIVER/assets/46991239/f792f081-bae2-4514-8627-644a0704bf49)
+![image](https://github.com/ajuhidalgo/03_RGB_LED_STRIP_DRIVER/assets/46991239/4ea5587d-6610-4db8-8c8c-029950ebb5ec) ![image](https://github.com/ajuhidalgo/03_RGB_LED_STRIP_DRIVER/assets/46991239/a204106e-d29f-4b00-b8cb-fc8191941446)
+
+
+
 
 
 
@@ -13,7 +16,7 @@ Este proyecto se centra en la creación de un controlador para tiras de LEDs RGB
 
 ### Características Clave
 - **Microcontrolador**: Utilizamos el módulo **ESP32-C6-MINI** de Espressif Systems y transistores **mosfet** para controlar las tiras LED.
-- **Interfaz de uso**: El dispositivo se controla a través del entorno Google Home. Permite la integración con la domótica del hogar, programar horarios de encendido o programar escenas.
+- **Interfaz de uso**: El dispositivo se controla a través del entorno **Google Home**. Permite la integración con la domótica del hogar, programar horarios de encendido o programar escenas.
 - **Selección de Colores**: Los usuarios pueden elegir entre una amplia gama de colores para personalizar las tiras LED.
 
 ### Repositorio en GitHub
