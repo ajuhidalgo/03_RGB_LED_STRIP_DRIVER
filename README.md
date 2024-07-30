@@ -16,7 +16,7 @@ Este proyecto se centra en la creación de un controlador para tiras de LEDs RGB
 
 ### Características Clave
 - **Microcontrolador**: Utilizamos el módulo **ESP32-C6-MINI** de Espressif Systems y transistores **mosfet** para controlar las tiras LED.
-- **Interfaz de uso**: El dispositivo se controla a través del entorno **Google Home**. Permite la integración con la domótica del hogar, programar horarios de encendido o programar escenas.
+- **Interfaz de uso**: El dispositivo se controla a través del entorno **Google Home**. Permite la integración con la domótica del hogar, programar horarios de encendido o programar escenas. Esto lo conseguimos gracias al uso de la plataforma Sinric Pro.
 - **Selección de Colores**: Los usuarios pueden elegir entre una amplia gama de colores para personalizar las tiras LED.
 
 ### Repositorio en GitHub
