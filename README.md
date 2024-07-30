@@ -22,4 +22,4 @@ Este proyecto se centra en la creación de un controlador para tiras de LEDs RGB
 ### Repositorio en GitHub
 Puedes encontrar el código fuente, los esquemas, los archivos de Gerber, los archivos STL y más en este repositorio.
 
-¡Buena suerte con tu proyecto! Si tienes alguna pregunta o necesitas más detalles, no dudes en preguntar.
+¡Buena suerte con tu proyecto! Si tienes alguna pregunta o necesitas más detalles, puedes ponerte en contacto conmigo.
